@@ -5,7 +5,13 @@
 
 Welcome to my little corner of GitHub, where old-school curiosity meets cutting-edge innovation. 🚀 It's a mix of fun project's, random stuff, or broken projects. 
 
-I'm all about diving into new adventures—whether it's working toward my pilot's license ✈️, tinkering with electronics 🔌, capturing the perfect shot 📸, jamming to some killer tunes 🎶, or just enjoying the ride. Life’s too short to stick to one lane, right? ¯\\_(ツ)_/¯  
+I'm all about diving into new adventures—whether it's
+- working toward my pilot's license ✈️
+- tinkering with electronics 🔌
+- capturing the perfect shot 📸
+- jamming to some killer tunes 🎶
+- or just enjoying the ride
+Life’s too short to stick to one lane, right? ¯\\_(ツ)_/¯  
 
 
 ---
