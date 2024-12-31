@@ -11,6 +11,7 @@ I'm all about diving into new adventures—whether it's
 - capturing the perfect shot 📸
 - jamming to some killer tunes 🎶
 - or just enjoying the ride
+
 Life’s too short to stick to one lane, right? ¯\\_(ツ)_/¯  
 
 
