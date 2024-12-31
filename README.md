@@ -1,4 +1,4 @@
-![Header Image](https://media.tinkernerd.dev/banner.png)
+![Header Image](https://media.tinkernerd.dev/logos/dev-banner.png)
 
 # 👋 Howdy, I'm Nick!  
 ## Aka *"The Tinkering Nerd"*  
