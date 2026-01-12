@@ -1,38 +1,54 @@
 ![Header Image](https://cdn.tinkernerd.dev/logos/dev-banner.png)
 
-# 👋 Howdy, I'm Nick!  
+# 👋 Howdy! I'm Nick  
 ## Aka *"The Tinkering Nerd"*  
 
-Welcome to my little corner of GitHub, where old-school curiosity meets cutting-edge innovation. 🚀 It’s a blend of fun projects, random experiments, and maybe a few that didn’t go quite as planned.  
+**Stay curious, stay tinkering. 🤠**
 
-I’m all about diving into new adventures:  
-- ✈️ **Working toward my pilot's license**  
-- 🔌 **Tinkering with electronics**  
-- 📸 **Capturing the perfect shot**  
-- 🎶 **Jamming to killer tunes**  
-- 😎 **Just enjoying the ride**  
-
-Why stick to one lane when you can explore them all? ¯\\_(ツ)_/¯  
+Welcome to my corner of GitHub — where faith, aviation, radios, and curiosity collide.  
+I enjoy learning by doing, breaking things (occasionally), fixing them, and figuring out how they work along the way.
 
 ---
 
-### 🔭 **What I'm Working On**  
-- **Current Project:** Refining my website—[Tinkernerd.dev](https://github.com/tinkernerd.dev)  
-- **Always Learning:** Life’s lessons, one experiment at a time. 🌱  
+### ✝️ **What Grounds Me**
+- ✝️ **Jesus first** — faith shapes how I live, work, and learn  
+- 📖 Scripture, reflection, and steady growth  
+
+> *“Whatever you do, work at it with all your heart, as working for the Lord.”*  
+> **— Colossians 3:23**
 
 ---
 
-### 📚 **Explore My Notes**  
-I’m a knowledge hoarder and love sharing what I’ve learned. My notes span a variety of topics, from aviation to theology and beyond.  
-- [📂 **Notes Overview**](https://github.com/tinkernerd/notes-overview) – Browse all my notes in one place.  
-- Check out individual repositories for topic-specific explorations.  
+### ✈️ **Aviation & Technical Interests**
+- 🛠️ **Aircraft Maintenance Technician (A&P) student**  
+- ✈️ Aviation systems, inspections, and hands-on problem solving  
+- 📡 **Amateur Radio Technician / Ham Radio Operator**  
+- 🔌 Electronics, radios, and practical experimentation  
+
+Aviation isn’t just a career path — it’s a mindset: **precision, accountability, and continuous learning**.
 
 ---
 
-### 📫 **Let’s Connect**  
+### 📸 **Photography**
+- 📷 Capturing moments, landscapes, aviation, and everyday details  
+- 🎞️ Exploring light, composition, and storytelling through images  
+
+Photography is how I slow down, observe, and appreciate the details.
+
+---
+
+### 🔭 **What I'm Working On**
+- **A&P / AMT Training** – Airframe, Powerplant, General  
+- **Ham Radio** – Learning the bands, operating practices, and RF basics  
+- **Personal Projects** – Small tools, experiments, and side ideas  
+- **Tinkernerd.dev** – My digital home for projects and links  
+
+---
+
+### 📫 **Let’s Connect**
 Got questions, ideas, or just want to say hi?  
-📧 [howdy@tinkernerd.dev](mailto:howdy@tinkernerd.dev)  
+📧 **howdy@tinkernerd.dev**
 
 ---
 
-Thanks for stopping by! Keep tinkering, exploring, and making life an adventure. 🌟  
+*Stay curious. Stay tinkering.*
